@@ -9,6 +9,8 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
 
 
 ### Conecte-se comigo
