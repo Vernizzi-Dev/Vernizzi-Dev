@@ -12,8 +12,6 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 
 ---
 
-
-
 ### Habilidades
 
 [![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -24,7 +22,21 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-states-generator.vercel.app/api?username=Vernizzi-Dev&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vernizzi-Dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+### 📱 Contato e Redes
 ### Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:victor.vernizzi01@gmail.com)
