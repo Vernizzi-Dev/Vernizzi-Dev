@@ -1,6 +1,17 @@
-VICTOR VERNIZZI DE OLIVEIRA
+<h1 align="center">Victor Vernizzi de Oliveira</h1>
 
-Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com habilitação técnica em Desenvolvimento de Sistemas. Estou realizando cursos na área de desenvolvimento FullStack, onde estou adquirindo conhecimentos em HTML, CSS, JavaScript, Bootstrap, manipulação de DOM, React.js, Node.js, Express.js, APIs, MySQL e MongoDB. Tenho um grande interesse em expandir minha expertise e estou sempre em busca de novos desafios para me desenvolver e aplicar minhas habilidades na criação de soluções tecnológicas completas.
+<p align="center">
+  Desenvolvedor com foco em transformar ideias em soluções tecnológicas com impacto e propósito.
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com habilitação técnica em Desenvolvimento de Sistemas. Estou realizando cursos na área de desenvolvimento FullStack, onde estou adquirindo conhecimentos em HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express, APIs REST, MySQL e MongoDB. Tenho um grande interesse em expandir minha experiência e estou sempre em busca de novos desafios para me desenvolver e aplicar minhas habilidades na criação de soluções tecnológicas completas.
+
+---
+
 
 
 ### Habilidades
