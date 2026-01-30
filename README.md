@@ -5,12 +5,19 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 
 ### Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+[![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)](https://nodejs.org/docs/latest/api/)
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/docs/)
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/doc)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
 
 ### Conecte-se comigo
