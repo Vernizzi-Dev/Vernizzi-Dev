@@ -43,7 +43,7 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 
 ---
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=EduardoVernizzi&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Vernizzi-Dev&style=flat-square" />
 </div>
 
 
