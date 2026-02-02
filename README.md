@@ -40,3 +40,11 @@ Sou estudante do Ensino Médio e atualmente estou estudando na ETEC de Poá com 
 ### Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:victor.vernizzi01@gmail.com)
+
+---
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=EduardoVernizzi&style=flat-square" />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=120a8f&height=120&section=footer"/>
